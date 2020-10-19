@@ -1,6 +1,5 @@
-import org.scalatra.LifeCycle
 import javax.servlet.ServletContext
-import com.felstar.playpen.scalatra._
+import org.scalatra.LifeCycle
 
 class ScalatraBootstrap extends LifeCycle {
 
